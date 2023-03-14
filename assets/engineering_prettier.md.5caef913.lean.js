@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.4b2b1220.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"engineering/prettier.md"}'),n={name:"engineering/prettier.md"};function a(o,i,s,c,p,_){return r(),t("div")}const f=e(n,[["render",a]]);export{m as __pageData,f as default};

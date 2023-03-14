@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.4b2b1220.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"design/create/factory.md"}'),r={name:"design/create/factory.md"};function c(o,s,n,d,i,p){return a(),t("div")}const m=e(r,[["render",c]]);export{f as __pageData,m as default};

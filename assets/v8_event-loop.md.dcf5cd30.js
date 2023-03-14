@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.4b2b1220.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"v8/event-loop.md"}'),a={name:"v8/event-loop.md"};function n(r,s,c,p,_,d){return o(),t("div")}const m=e(a,[["render",n]]);export{l as __pageData,m as default};
